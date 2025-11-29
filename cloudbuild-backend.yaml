@@ -24,8 +24,8 @@ steps:
         "./launch",
         "--allow-unauthenticated",
       ]
-    logging: NONE
       
+logging: NONE      
 
 timeout: 900s
 options:
